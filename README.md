@@ -2,8 +2,8 @@
 
 Alzheimer’s is caused because of dementia. Dementia is
 not a single disease but rather covers a wide range of specific
-conditions includinglAlzheimer’s disease. Theselalterations cause a
-deterioration in thinking abilities,lalso known as cognitive
+conditions including Alzheimer’s disease. These alterations cause a
+deterioration in thinking abilities, also known as cognitive
 capacities, that is severe enough to impair day-to-day activities.
 There are 3 stages of Alzheimer’s Disease Mild Cognitive
 impairment (MCI), Moderate Alzheimer's Disease and Severe
@@ -36,9 +36,8 @@ disease progression or transition from one stage to another,
 on the other hand, necessitates longitudinal data analysis. The
 proposed method's key advantage in the clinical situation is
 that it uses a model with high accuracy and specificity in
-
 diagnosing illness stage rather than burdensome higher-
-dimensional image processing methods. The diseasecharacteristics in the staging of Alzheimer's disease, such as
+dimensional image processing methods. The disease characteristics in the staging of Alzheimer's disease, such as
 mild, moderate, and severe, might vary from case to case to
 represent the neuropathological alterations that are linked to
 clinical symptoms.
